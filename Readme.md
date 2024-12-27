@@ -2,6 +2,8 @@
 
 This repository contains implementations of various data structures in Python. It is designed for educational purposes, helping users understand the fundamentals of data structures and their applications. Each implementation is included as a separate file for modularity and clarity.
 
+###This repository was created by Mina-Demyann and Nasser-Hana.
+
 ## Data Structures Implemented
 
 ### Linear Data Structures
